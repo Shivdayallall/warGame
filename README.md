@@ -1,2 +1,5 @@
-# warGame
-Build and Design the UI for a WAR card game. App was built using Kotlin and android studio.
+![pic1](https://github.com/Shivdayallall/warGame/assets/29828549/4f9094fa-1aa2-4970-9df5-6c9c30825d4e)
+![pic2](https://github.com/Shivdayallall/warGame/assets/29828549/004fb721-53cb-4ab3-8b47-0a6a8cc26d2e)
+![pic3](https://github.com/Shivdayallall/warGame/assets/29828549/dac65663-45a0-4cf1-a21e-21e684c92acf)
+![pic4](https://github.com/Shivdayallall/warGame/assets/29828549/3f5fca3a-5ae7-4823-8f1a-fafe0961ce04)
+![pic5](https://github.com/Shivdayallall/warGame/assets/29828549/0aac0c38-568d-41e2-92c9-58b4745771e4)
